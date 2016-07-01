@@ -421,3 +421,8 @@ If you install `serialport` globally. (eg, `npm install -g serialport`) you'll r
 
 ### Serial Port Terminal
 `serialportterm` provides a basic terminal interface for a serialport. `ctrl+c` will exit.
+
+
+***
+
+This project has adopted the [Microsoft Open Source Code of Conduct](http://microsoft.github.io/codeofconduct). For more information see the [Code of Conduct FAQ](http://microsoft.github.io/codeofconduct/faq.md) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
